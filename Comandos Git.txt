@@ -1,3 +1,13 @@
-1- Versionamento iniciado pelo Windows Explrorer (imagem 1)
-2- git init
-3- git add .
+Versionamento iniciado pelo Windows Explrorer (imagem 1)
+
+git init
+
+git add .
+
+git commit -m "Projeto inicial"
+
+git remote add origin https://github.com/ArturSilvaCosta/Git-UC11-ATV1.git
+
+git branch -m main
+
+git push -u origin main
